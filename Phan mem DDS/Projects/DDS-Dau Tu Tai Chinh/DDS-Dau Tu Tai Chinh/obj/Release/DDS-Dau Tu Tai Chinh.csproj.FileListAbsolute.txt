@@ -1,0 +1,11 @@
+C:\Users\H81M\Documents\Visual Studio 2013\Projects\DDS-Dau Tu Tai Chinh\DDS-Dau Tu Tai Chinh\bin\Release\DDS-Dau Tu Tai Chinh.exe.config
+C:\Users\H81M\Documents\Visual Studio 2013\Projects\DDS-Dau Tu Tai Chinh\DDS-Dau Tu Tai Chinh\bin\Release\DDS-Dau Tu Tai Chinh.exe
+C:\Users\H81M\Documents\Visual Studio 2013\Projects\DDS-Dau Tu Tai Chinh\DDS-Dau Tu Tai Chinh\bin\Release\DDS-Dau Tu Tai Chinh.pdb
+C:\Users\H81M\Documents\Visual Studio 2013\Projects\DDS-Dau Tu Tai Chinh\DDS-Dau Tu Tai Chinh\obj\Release\DDS_Dau_Tu_Tai_Chinh.fDauTuTaiChinh.resources
+C:\Users\H81M\Documents\Visual Studio 2013\Projects\DDS-Dau Tu Tai Chinh\DDS-Dau Tu Tai Chinh\obj\Release\DDS_Dau_Tu_Tai_Chinh.fLogin.resources
+C:\Users\H81M\Documents\Visual Studio 2013\Projects\DDS-Dau Tu Tai Chinh\DDS-Dau Tu Tai Chinh\obj\Release\DDS_Dau_Tu_Tai_Chinh.fOutPut.resources
+C:\Users\H81M\Documents\Visual Studio 2013\Projects\DDS-Dau Tu Tai Chinh\DDS-Dau Tu Tai Chinh\obj\Release\DDS_Dau_Tu_Tai_Chinh.Properties.Resources.resources
+C:\Users\H81M\Documents\Visual Studio 2013\Projects\DDS-Dau Tu Tai Chinh\DDS-Dau Tu Tai Chinh\obj\Release\DDS-Dau Tu Tai Chinh.csproj.GenerateResource.Cache
+C:\Users\H81M\Documents\Visual Studio 2013\Projects\DDS-Dau Tu Tai Chinh\DDS-Dau Tu Tai Chinh\obj\Release\DDS-Dau Tu Tai Chinh.exe
+C:\Users\H81M\Documents\Visual Studio 2013\Projects\DDS-Dau Tu Tai Chinh\DDS-Dau Tu Tai Chinh\obj\Release\DDS-Dau Tu Tai Chinh.pdb
+C:\Users\H81M\documents\visual studio 2013\Projects\DDS-Dau Tu Tai Chinh\DDS-Dau Tu Tai Chinh\obj\Release\DDS-Dau Tu Tai Chinh.csprojResolveAssemblyReference.cache
